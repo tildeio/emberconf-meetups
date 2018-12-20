@@ -1,8 +1,7 @@
-meetups:
-  - name: Pokemon Go
-    date: Day 1
-    time: 8:00am
-    location: Outside Registration
-    point_of_contact: Honus Wagner
-    description: |
-      Description text
+- name: Pokemon Go
+  date: Day 1
+  time: 8:00am
+  location: Outside Registration
+  point_of_contact: Honus Wagner
+  description: |
+    Description text
