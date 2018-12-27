@@ -1,96 +1,51 @@
 # Meetup descriptions support Markdown and inline HTML.
 
-days:
+meetups:
 
-  ################################
-  - day:
-    name: Pre-Conf
+  - name: Pokemon Gof
+    date: March 18
+    time: 8:00am
+    location: Outside Registration
+    point_of_contact: Honus Wagner
+    description: |
+      Description text, be sure to include any RSVP instructions!
 
-  ################################
+  - name: Pokemon Go
+    date: March 17
+    time: 11:00am
+    location: Outside Registration
+    point_of_contact: Honus Wagner
+    description: |
+      Description text, be sure to include any RSVP instructions!
 
-    meetups:
+  - name: Pokemon Go
+    date: March 19
+    time: 8:30am
+    location: Outside Registration
+    point_of_contact: Honus Wagner
+    description: |
+      Description text, be sure to include any RSVP instructions!
 
-    - name: Pokemon Gof
-      date: March 18
-      time: 8:00am
-      location: Outside Registration
-      point_of_contact: Honus Wagner
-      description: |
-        Description text, be sure to include any RSVP instructions!
+  - name: Pokemon Go
+    date: March 21
+    time: 8:00am
+    location: Outside Registration
+    point_of_contact: Honus Wagner
+    description: |
+      Description text, be sure to include any RSVP instructions!
 
-    - name: Pokemon Go
-      date: March 17
-      time: 8:00am
-      location: Outside Registration
-      point_of_contact: Honus Wagner
-      description: |
-        Description text, be sure to include any RSVP instructions!
+  - name: Pokemon Go
+    date: March 15
+    time: 10:00am
+    location: Outside Registration
+    point_of_contact: Honus Wagner
+    description: |
+      Description text, be sure to include any RSVP instructions!
 
-  ################################
-  - day:
-    name: Day 1
-
-  ################################
-
-    meetups:
-
-    - name: Pokemon Go
-      time: 8:00am
-      location: Outside Registration
-      point_of_contact: Honus Wagner
-      description: |
-        Description text, be sure to include any RSVP instructions!
-
-    - name: Pokemon Go
-      time: 8:00am
-      location: Outside Registration
-      point_of_contact: Honus Wagner
-      description: |
-        Description text, be sure to include any RSVP instructions!
-
-
-  ################################
-  - day:
-    name: Day 2
-
-  ################################
-
-    meetups:
-
-    - name: Pokemon Go
-      time: 8:00am
-      location: Outside Registration
-      point_of_contact: Honus Wagner
-      description: |
-        Description text, be sure to include any RSVP instructions!
-
-    - name: Pokemon Go
-      time: 8:00am
-      location: Outside Registration
-      point_of_contact: Honus Wagner
-      description: |
-        Description text, be sure to include any RSVP instructions!
-
-  ################################
-  - day:
-    name: Post-Conf
-
-  ################################
-
-    meetups:
-
-    - name: Pokemon Go
-      time: 8:00am
-      date: May 8
-      location: Outside Registration
-      point_of_contact: Honus Wagner
-      description: |
-        Description text, be sure to include any RSVP instructions!
-
-    - name: Pokemon Go
-      time: 8:00am
-      date: May 3
-      location: Outside Registration
-      point_of_contact: Honus Wagner
-      description: |
-        Description text, be sure to include any RSVP instructions!
+  - name: Pokemon Go
+    date: March 18
+    time: 12:00pm
+    location: Outside Registration
+    point_of_contact: Honus Wagner
+    description: |
+      Description text, be sure to include any RSVP instructions!
