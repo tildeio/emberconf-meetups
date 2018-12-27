@@ -1,4 +1,5 @@
 # Meetup descriptions support Markdown and inline HTML.
+# Meetups are automatically sorted by date/time.
 
 - name: Pokemon Gof
   date: March 18
