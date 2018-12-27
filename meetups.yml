@@ -1,7 +1,5 @@
 # Meetup descriptions support Markdown and inline HTML.
 
-meetups:
-
   - name: Pokemon Gof
     date: March 18
     time: 8:00am
