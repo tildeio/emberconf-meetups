@@ -81,6 +81,7 @@ days:
 
     - name: Pokemon Go
       time: 8:00am
+      date: May 8
       location: Outside Registration
       point_of_contact: Honus Wagner
       description: |
@@ -88,6 +89,7 @@ days:
 
     - name: Pokemon Go
       time: 8:00am
+      date: May 3
       location: Outside Registration
       point_of_contact: Honus Wagner
       description: |
