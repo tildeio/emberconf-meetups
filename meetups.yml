@@ -2,9 +2,11 @@
 
 days:
 
-  ########
-  - pre-conf:
-  ########
+  ################################
+  - day:
+    name: Pre-Conf
+
+  ################################
 
     meetups:
 
@@ -24,9 +26,11 @@ days:
       description: |
         Description text, be sure to include any RSVP instructions!
 
-  ########
-  - day-1:
-  ########
+  ################################
+  - day:
+    name: Day 1
+
+  ################################
 
     meetups:
 
@@ -44,9 +48,12 @@ days:
       description: |
         Description text, be sure to include any RSVP instructions!
 
-  ########
-  - day-2:
-  ########
+
+  ################################
+  - day:
+    name: Day 2
+
+  ################################
 
     meetups:
 
@@ -64,9 +71,11 @@ days:
       description: |
         Description text, be sure to include any RSVP instructions!
 
-  ########
-  - post-conf:
-  ########
+  ################################
+  - day:
+    name: Post-Conf
+
+  ################################
 
     meetups:
 
