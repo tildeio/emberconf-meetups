@@ -1,7 +1,85 @@
-- name: Pokemon Go
-  date: Day 1
-  time: 8:00am
-  location: Outside Registration
-  point_of_contact: Honus Wagner
-  description: |
-    Description text, be sure to include any RSVP instructions!
+# Meetup descriptions support Markdown and inline HTML.
+
+days:
+
+  ########
+  - pre-conf:
+  ########
+
+    meetups:
+
+    - name: Pokemon Gof
+      date: March 18
+      time: 8:00am
+      location: Outside Registration
+      point_of_contact: Honus Wagner
+      description: |
+        Description text, be sure to include any RSVP instructions!
+
+    - name: Pokemon Go
+      date: March 17
+      time: 8:00am
+      location: Outside Registration
+      point_of_contact: Honus Wagner
+      description: |
+        Description text, be sure to include any RSVP instructions!
+
+  ########
+  - day-1:
+  ########
+
+    meetups:
+
+    - name: Pokemon Go
+      time: 8:00am
+      location: Outside Registration
+      point_of_contact: Honus Wagner
+      description: |
+        Description text, be sure to include any RSVP instructions!
+
+    - name: Pokemon Go
+      time: 8:00am
+      location: Outside Registration
+      point_of_contact: Honus Wagner
+      description: |
+        Description text, be sure to include any RSVP instructions!
+
+  ########
+  - day-2:
+  ########
+
+    meetups:
+
+    - name: Pokemon Go
+      time: 8:00am
+      location: Outside Registration
+      point_of_contact: Honus Wagner
+      description: |
+        Description text, be sure to include any RSVP instructions!
+
+    - name: Pokemon Go
+      time: 8:00am
+      location: Outside Registration
+      point_of_contact: Honus Wagner
+      description: |
+        Description text, be sure to include any RSVP instructions!
+
+  ########
+  - post-conf:
+  ########
+
+    meetups:
+
+    - name: Pokemon Go
+      time: 8:00am
+      location: Outside Registration
+      point_of_contact: Honus Wagner
+      description: |
+        Description text, be sure to include any RSVP instructions!
+
+    - name: Pokemon Go
+      time: 8:00am
+      location: Outside Registration
+      point_of_contact: Honus Wagner
+      description: |
+        Description text, be sure to include any RSVP instructions!
