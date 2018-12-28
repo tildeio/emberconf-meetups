@@ -26,6 +26,9 @@
 #    (Describe your meetup. Be sure to include any RSVP instructions. Markdown and HTML allowed.)
 
 
+
+
+
 #############################################################
 - group: "Before the Conference" # March 18 or before
   events:
@@ -47,6 +50,21 @@
     description: |
       Description text, be sure to include any RSVP instructions!
 
+  - name: Pokemon Go
+    date: March 17
+    time: 6:00am
+    location: Outside Registration
+    point_of_contact: Honus Wagner
+    description: |
+      Description text, be sure to include any RSVP instructions!
+
+  - name: Pokemon Go
+    date: March 19
+    time: 6:00am
+    location: Outside Registration
+    point_of_contact: Honus Wagner
+    description: |
+      Description text, be sure to include any RSVP instructions!
 
 #############################################################
 - group: "Day 1" # March 19
