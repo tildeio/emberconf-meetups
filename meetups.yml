@@ -30,7 +30,7 @@
 
 
 #############################################################
-- group: "Before the Conference" # March 18 or before
+- group: "Pre-Conference" # March 18 or before
   events:
 #############################################################
 
@@ -100,7 +100,7 @@
 
 
 #############################################################
-- group: "After the Conference" # March 21 or after
+- group: "Post-Conference" # March 21 or after
   events:
 #############################################################
 
