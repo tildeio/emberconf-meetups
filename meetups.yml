@@ -1,13 +1,117 @@
-- name: Pokemon Go
-  date: Day 1
-  time: 8:00am
-  location: Outside Registration
-  point_of_contact: Honus Wagner
-  description: |
-    Description text, be sure to include any RSVP instructions!
-- name: Chess
-  date: Day 0 (Sunday, March 17)
-  time: 4:00pm
-  point_of_contact: Balint Erdi (@baaz, balint.erdi@gmail.com)
-  description: |
-    A friendly chess tournament. No entry fee, no prize, just pure fun. Please get in touch with me if you'd like to join us.
+
+#############################################################
+
+# Unofficial EmberConf Meetups
+# A list of community-led gatherings and activities
+
+#############################################################
+
+# Add your meetup to the appropriate group using the following format:
+
+#  - name:
+#    (The name of your event — e.g., "Pre-Conf Chess Tournament")
+#
+#    date:
+#    (Only necessary for meetups before or after the conference — e.g., "March 17")
+#
+#    time:
+#    (Start time or a time range — e.g., "8:00am" or "8:00am–10:00am")
+#
+#    location:
+#    (Where the event takes place. If offsite, include a map link — e.g., "Next to Registration" or "<a href="[Map URL]" target="_blank">Dave's Waffle House</a>")
+#
+#    point_of_contact:
+#    (Who to contact with questions or to RSVP. Include a link if possible — e.g., "<a href="[contact link]" target="_blank">James Duggan</a>")
+#
+#    description: |
+#    (Describe your meetup. Be sure to include any RSVP instructions. Markdown and HTML allowed.)
+
+
+#############################################################
+- group: "Pre-Conference" # March 18 or before
+  events:
+#############################################################
+
+  - name: Chess
+    date: Day 0 (Sunday, March 17)
+    time: 4:00pm
+    point_of_contact: Balint Erdi (@baaz, balint.erdi@gmail.com)
+    description: |
+      A friendly chess tournament. No entry fee, no prize, just pure fun. Please get in touch with me if you'd like to join us.
+  - name: Pokemon Go
+    date: March 18
+    time: 8:00am
+    location: Outside Registration
+    point_of_contact: <a href="#">Honus Wagner</a>
+    description: |
+      Description text, be sure to include any RSVP instructions!
+
+  - name: Pokemon Go
+    date: March 17
+    time: 11:00am
+    location: Outside Registration
+    point_of_contact: Honus Wagner
+    description: |
+      Description text, be sure to include any RSVP instructions!
+
+  - name: Pokemon Go
+    date: March 17
+    time: 6:00am
+    location: Outside Registration
+    point_of_contact: Honus Wagner
+    description: |
+      Description text, be sure to include any RSVP instructions!
+
+  - name: Pokemon Go
+    date: March 19
+    time: 6:00am
+    location: Outside Registration
+    point_of_contact: Honus Wagner
+    description: |
+      Description text, be sure to include any RSVP instructions!
+
+#############################################################
+- group: "Day 1" # March 19
+  events:
+#############################################################
+
+  - name: Pokemon Go
+    time: 8:30am
+    location: Outside Registration
+    point_of_contact: Honus Wagner
+    description: |
+      Description text, be sure to include any RSVP instructions!
+
+
+#############################################################
+- group: "Day 2" # March 20
+  events:
+#############################################################
+
+  - name: Pokemon Go
+    time: 8:00am
+    location: Outside Registration
+    point_of_contact: Honus Wagner
+    description: |
+      Description text, be sure to include any RSVP instructions!
+
+  - name: Pokemon Go
+    time: 10:00am
+    location: Outside Registration
+    point_of_contact: Honus Wagner
+    description: |
+      Description text, be sure to include any RSVP instructions!
+
+
+#############################################################
+- group: "Post-Conference" # March 21 or after
+  events:
+#############################################################
+
+  - name: Pokemon Go
+    date: March 18
+    time: 12:00pm
+    location: Outside Registration
+    point_of_contact: Honus Wagner
+    description: |
+      Description text, be sure to include any RSVP instructions!
