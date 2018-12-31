@@ -26,9 +26,6 @@
 #    (Describe your meetup. Be sure to include any RSVP instructions. Markdown and HTML allowed.)
 
 
-
-
-
 #############################################################
 - group: "Pre-Conference" # March 18 or before
   events:
@@ -65,6 +62,13 @@
     point_of_contact: Honus Wagner
     description: |
       Description text, be sure to include any RSVP instructions!
+
+  - name: Chess
+    date: Day 0 (Sunday, March 17)
+    time: 4:00pm
+    point_of_contact: Balint Erdi (@baaz, balint.erdi@gmail.com)
+    description: |
+      A friendly chess tournament. No entry fee, no prize, just pure fun. Please get in touch with me if you'd like to join us.
 
 #############################################################
 - group: "Day 1" # March 19
