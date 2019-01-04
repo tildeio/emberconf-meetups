@@ -31,56 +31,25 @@
   events:
 #############################################################
 
-  - name: Pokemon Go
-    date: March 18
-    time: 8:00am
-    location: Outside Registration
-    point_of_contact: <a href="#">Honus Wagner</a>
-    description: |
-      Description text, be sure to include any RSVP instructions!
-
-  - name: Pokemon Go
-    date: March 17
-    time: 11:00am
-    location: Outside Registration
-    point_of_contact: Honus Wagner
-    description: |
-      Description text, be sure to include any RSVP instructions!
-
-  - name: Pokemon Go
-    date: March 17
-    time: 6:00am
-    location: Outside Registration
-    point_of_contact: Honus Wagner
-    description: |
-      Description text, be sure to include any RSVP instructions!
-
-  - name: Pokemon Go
-    date: March 19
-    time: 6:00am
-    location: Outside Registration
-    point_of_contact: Honus Wagner
-    description: |
-      Description text, be sure to include any RSVP instructions!
-
   - name: Chess
-    date: Day 0 (Sunday, March 17)
+    date: Sunday, March 17
     time: 4:00pm
-    point_of_contact: Balint Erdi (@baaz, balint.erdi@gmail.com)
+    point_of_contact: <a href="//twitter.com/baaz" target="_blank">Balint Erdi</a>
     description: |
-      A friendly chess tournament. No entry fee, no prize, just pure fun. Please get in touch with me if you'd like to join us.
+      A friendly chess tournament. No entry fee, no prize, just pure fun. Please <a href="mailto:balint.erdi@gmail.com">Email</a> or <a href="//twitter.com/baaz" target="_blank">Tweet</a> me  if you'd like to join us.
+
 
 #############################################################
 - group: "Day 1" # March 19
   events:
 #############################################################
 
-  - name: Pokemon Go
-    time: 8:30am
-    location: Outside Registration
-    point_of_contact: Honus Wagner
-    description: |
-      Description text, be sure to include any RSVP instructions!
+  # - name: Pokemon Go
+  #   time: 8:30am
+  #   location: Outside Registration
+  #   point_of_contact: Honus Wagner
+  #   description: |
+  #     Description text, be sure to include any RSVP instructions!
 
 
 #############################################################
@@ -88,19 +57,14 @@
   events:
 #############################################################
 
-  - name: Pokemon Go
-    time: 8:00am
-    location: Outside Registration
-    point_of_contact: Honus Wagner
-    description: |
-      Description text, be sure to include any RSVP instructions!
+  # - name: Pokemon Go
+  #   time: 8:00am
+  #   location: Outside Registration
+  #   point_of_contact: Honus Wagner
+  #   description: |
+  #     Description text, be sure to include any RSVP instructions!
 
-  - name: Pokemon Go
-    time: 10:00am
-    location: Outside Registration
-    point_of_contact: Honus Wagner
-    description: |
-      Description text, be sure to include any RSVP instructions!
+
 
 
 #############################################################
@@ -108,10 +72,10 @@
   events:
 #############################################################
 
-  - name: Pokemon Go
-    date: March 18
-    time: 12:00pm
-    location: Outside Registration
-    point_of_contact: Honus Wagner
-    description: |
-      Description text, be sure to include any RSVP instructions!
+  # - name: Pokemon Go
+  #   date: March 18
+  #   time: 12:00pm
+  #   location: Outside Registration
+  #   point_of_contact: Honus Wagner
+  #   description: |
+  #     Description text, be sure to include any RSVP instructions!
