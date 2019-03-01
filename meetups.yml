@@ -31,6 +31,14 @@
   events:
 #############################################################
 
+  - name: Weekend Bouldering
+    date: Sunday, March 17
+    time: 1:00pm
+    location: <a href="https://goo.gl/maps/56yy29zutZU2" target="_blank">The Circuit Bouldering Gym, Northeast</a>
+    point_of_contact: <a href="https://www.linkedin.com/in/ijlee2/">Isaac Lee</a>
+    description: |
+      Start your midday with bouldering. All first-timers and regulars welcome. Feel free to reach me by <a href="mailto:isaacjlee@hotmail.com">email</a> for RSVP and questions. Cheers!
+
   - name: Chess
     date: Sunday, March 17
     time: 4:00pm
