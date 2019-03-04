@@ -59,13 +59,14 @@
   #   point_of_contact: Honus Wagner
   #   description: |
   #     Description text, be sure to include any RSVP instructions!
-  
+
   - name: Meetup Organizer's lunch
-     time: 12:00pm
-     location: The EmberConf food hall, far back left corner as you exit the food lines
-     point_of_contact: Jen Weber, @jenweber on Discord
-     description: |
-       Are you a meetup organizer? Come meet other organizers! When everyone at the conference breaks for lunch, we'll grab a few tables of our own to chat and share ideas. Join the meetup organizers channel on Ember Discord in the meantime!
+    time: 12:00pm
+    date: March 19
+    location: The EmberConf food hall, far back left corner as you exit the food lines
+    point_of_contact: Jen Weber, @jenweber on Discord
+    description: |
+     Are you a meetup organizer? Come meet other organizers! When everyone at the conference breaks for lunch, we'll grab a few tables of our own to chat and share ideas. Join the `#meetup-organizers` channel on [Ember Discord](https://discordapp.com/invite/zT3asNS) in the meantime!
 
 
 #############################################################
