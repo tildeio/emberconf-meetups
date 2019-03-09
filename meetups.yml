@@ -68,6 +68,14 @@
     description: |
      Are you a meetup organizer? Come meet other organizers! When everyone at the conference breaks for lunch, we'll grab a few tables of our own to chat and share ideas. Join the `#meetup-organizers` channel on <a href="https://discordapp.com/invite/zT3asNS" target="_blank">Ember Discord</a> in the meantime!
 
+  - name: Ice Cream Social
+    time: 10:00pm
+    date: March 19
+    location: Salt & Straw, 3345 SE Division St.
+    point_of_contact: Jordan Hawker, @jordan (Axle#3134) on Discord
+    description: |
+     What better way to celebrate another amazing EmberConf than ice cream with friends? The EmberConf Ice Cream Social is coming back for the fourth year in a row! Stop by for the best ice cream in Portland (if not the entire West Coast!) and network with your fellow Ember aficionados after the first day of incredible talks. <a href="https://emberconf-2019-ice-cream-social.eventbrite.com/" target="_blank">RSVP Now</a>!
+
 
 #############################################################
 - group: "Day 2" # March 20
