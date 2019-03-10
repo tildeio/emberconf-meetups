@@ -104,3 +104,10 @@
   #   point_of_contact: Honus Wagner
   #   description: |
   #     Description text, be sure to include any RSVP instructions!
+  - name: Parkour class
+    date: Thursday, March 21
+    time: 7:00pm
+    location: <a href="http://forgeparkour.com/" target="_blank">Forge Parkour</a>
+    point_of_contact: Luke Melia, @lukemelia on Discord
+    description: |
+      Forge Parkour is a great parkour gym a few of us jumped around at last year. There is an Intro to Parkour class and a Parkour 1 & 2 class at 7 on Thursday. Ping me on Discord if you're interested and I'll coordinate with the gym. You'll need sneakers and clothes you can move in. No prior experience necessary. $15-$25.
