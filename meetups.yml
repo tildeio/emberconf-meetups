@@ -32,18 +32,22 @@
 #############################################################
 
   - name: Weekend Bouldering
-    date: Sunday, March 17
-    time: 1:00pm
-    location: <a href="https://goo.gl/maps/56yy29zutZU2" target="_blank">The Circuit Bouldering Gym, Northeast</a>
-    point_of_contact: <a href="https://www.linkedin.com/in/ijlee2/">Isaac Lee</a>
+    date: "Sunday, March 17"
+    time: "1:00pm"
+    location: |
+      <a href="https://goo.gl/maps/56yy29zutZU2" target="_blank">The Circuit Bouldering Gym, Northeast</a>
+    point_of_contact: |
+      <a href="https://www.linkedin.com/in/ijlee2/">Isaac Lee</a>
     description: |
       Start your midday with bouldering. All first-timers and regulars welcome. Feel free to reach me by <a href="mailto:isaacjlee@hotmail.com">email</a> for RSVP and questions. Cheers!
 
-  - name: Chess
-    date: Sunday, March 17
-    time: 4:00pm (until ~7:00pm)
-    location: <a href="https://goo.gl/maps/tEuJTUTGLm92">Guardian Games</a>
-    point_of_contact: <a href="//twitter.com/baaz" target="_blank">Balint Erdi</a>
+  - name: "Chess"
+    date: "Sunday, March 17"
+    time: "4:00pm (until ~7:00pm)"
+    location: |
+      <a href="https://goo.gl/maps/tEuJTUTGLm92">Guardian Games</a>
+    point_of_contact: |
+      <a href="//twitter.com/baaz" target="_blank">Balint Erdi</a>
     description: |
       A friendly chess tournament. No entry fee, no prize, just pure fun. Please <a href="mailto:balint.erdi@gmail.com">email</a> or <a href="//twitter.com/baaz" target="_blank">Tweet</a> me if you'd like to join us.
 
@@ -60,19 +64,19 @@
   #   description: |
   #     Description text, be sure to include any RSVP instructions!
 
-  - name: Meetup Organizer's lunch
-    time: 12:00pm
-    date: March 19
-    location: The EmberConf food hall, far back left corner as you exit the food lines
-    point_of_contact: Jen Weber, @jenweber on Discord
+  - name: "Meetup Organizer's lunch"
+    time: "12:00pm"
+    date: "March 19"
+    location: "The EmberConf food hall, far back left corner as you exit the food lines"
+    point_of_contact: "Jen Weber, @jenweber on Discord"
     description: |
      Are you a meetup organizer? Come meet other organizers! When everyone at the conference breaks for lunch, we'll grab a few tables of our own to chat and share ideas. Join the `#meetup-organizers` channel on <a href="https://discordapp.com/invite/zT3asNS" target="_blank">Ember Discord</a> in the meantime!
 
-  - name: Ice Cream Social
-    time: 10:00pm
-    date: March 19
-    location: Salt & Straw, 3345 SE Division St.
-    point_of_contact: Jordan Hawker, @jordan (Axle#3134) on Discord
+  - name: "Ice Cream Social"
+    time: "10:00pm"
+    date: "March 19"
+    location: "Salt & Straw, 3345 SE Division St."
+    point_of_contact: "Jordan Hawker, @jordan (Axle#3134) on Discord"
     description: |
      What better way to celebrate another amazing EmberConf than ice cream with friends? The EmberConf Ice Cream Social is coming back for the fourth year in a row! Stop by for the best ice cream in Portland (if not the entire West Coast!) and network with your fellow Ember aficionados after the first day of incredible talks. <a href="https://emberconf-2019-ice-cream-social.eventbrite.com/" target="_blank">RSVP Now</a>!
 
@@ -104,10 +108,11 @@
   #   point_of_contact: Honus Wagner
   #   description: |
   #     Description text, be sure to include any RSVP instructions!
-  - name: Parkour class
-    date: Thursday, March 21
-    time: 7:00pm
-    location: <a href="http://forgeparkour.com/" target="_blank">Forge Parkour</a>
-    point_of_contact: Luke Melia, @lukemelia on Discord
+  - name: "Parkour class"
+    date: "Thursday, March 21"
+    time: "7:00pm"
+    location: |
+      <a href="http://forgeparkour.com/" target="_blank">Forge Parkour</a>
+    point_of_contact: "Luke Melia, @lukemelia on Discord"
     description: |
       Forge Parkour is a great parkour gym a few of us jumped around at last year. There is an Intro to Parkour class and a Parkour 1 & 2 class at 7 on Thursday. Ping me on Discord if you're interested and I'll coordinate with the gym. You'll need sneakers and clothes you can move in. No prior experience necessary. $15-$25.
