@@ -33,7 +33,7 @@
 
   - name: Weekend Bouldering
     date: "Sunday, March 17"
-    time: "1:00pm"
+    start_time: "1:00pm"
     location: |
       <a href="https://goo.gl/maps/56yy29zutZU2" target="_blank">The Circuit Bouldering Gym, Northeast</a>
     point_of_contact: |
@@ -43,7 +43,8 @@
 
   - name: "Chess"
     date: "Sunday, March 17"
-    time: "4:00pm (until ~7:00pm)"
+    start_time: "4:00pm"
+    end_time: "~7:00pm"
     location: |
       <a href="https://goo.gl/maps/tEuJTUTGLm92">Guardian Games</a>
     point_of_contact: |
@@ -65,7 +66,7 @@
   #     Description text, be sure to include any RSVP instructions!
 
   - name: "Meetup Organizer's lunch"
-    time: "12:00pm"
+    start_time: "12:00pm"
     date: "March 19"
     location: "The EmberConf food hall, far back left corner as you exit the food lines"
     point_of_contact: "Jen Weber, @jenweber on Discord"
@@ -73,7 +74,7 @@
      Are you a meetup organizer? Come meet other organizers! When everyone at the conference breaks for lunch, we'll grab a few tables of our own to chat and share ideas. Join the `#meetup-organizers` channel on <a href="https://discordapp.com/invite/zT3asNS" target="_blank">Ember Discord</a> in the meantime!
 
   - name: "Ice Cream Social"
-    time: "10:00pm"
+    start_time: "10:00pm"
     date: "March 19"
     location: "Salt & Straw, 3345 SE Division St."
     point_of_contact: "Jordan Hawker, @jordan (Axle#3134) on Discord"
@@ -110,7 +111,7 @@
   #     Description text, be sure to include any RSVP instructions!
   - name: "Parkour class"
     date: "Thursday, March 21"
-    time: "7:00pm"
+    start_time: "7:00pm"
     location: |
       <a href="http://forgeparkour.com/" target="_blank">Forge Parkour</a>
     point_of_contact: "Luke Melia, @lukemelia on Discord"
