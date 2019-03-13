@@ -13,8 +13,11 @@
 #    date:
 #    (Only necessary for meetups before or after the conference — e.g., "March 17")
 #
-#    time:
-#    (Start time or a time range — e.g., "8:00am" or "8:00am–10:00am")
+#    start_time:
+#    (Start time — e.g., "8:00am")
+#
+#    end_time:
+#    (Optional)
 #
 #    location:
 #    (Where the event takes place. If offsite, include a map link — e.g., "Next to Registration" or "<a href="[Map URL]" target="_blank">Dave's Waffle House</a>")
@@ -58,13 +61,6 @@
   events:
 #############################################################
 
-  # - name: Pokemon Go
-  #   time: 8:30am
-  #   location: Outside Registration
-  #   point_of_contact: Honus Wagner
-  #   description: |
-  #     Description text, be sure to include any RSVP instructions!
-
   - name: "Meetup Organizer's lunch"
     start_time: "12:00pm"
     date: "March 19"
@@ -87,14 +83,6 @@
   events:
 #############################################################
 
-  # - name: Pokemon Go
-  #   time: 8:00am
-  #   location: Outside Registration
-  #   point_of_contact: Honus Wagner
-  #   description: |
-  #     Description text, be sure to include any RSVP instructions!
-
-
 
 
 #############################################################
@@ -102,13 +90,6 @@
   events:
 #############################################################
 
-  # - name: Pokemon Go
-  #   date: March 18
-  #   time: 12:00pm
-  #   location: Outside Registration
-  #   point_of_contact: Honus Wagner
-  #   description: |
-  #     Description text, be sure to include any RSVP instructions!
   - name: "Parkour class"
     date: "Thursday, March 21"
     start_time: "7:00pm"
