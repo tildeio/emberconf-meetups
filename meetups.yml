@@ -37,6 +37,7 @@
   - name: Weekend Bouldering
     date: "Sunday, March 17"
     start_time: "1:00pm"
+    end_time: "3:30pm"
     location: |
       <a href="https://goo.gl/maps/56yy29zutZU2" target="_blank">The Circuit Bouldering Gym, Northeast</a>
     point_of_contact: |
