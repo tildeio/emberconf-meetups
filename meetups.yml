@@ -62,6 +62,14 @@
   events:
 #############################################################
 
+  - name: "Bible Study Breakfast"
+    start_time: "7:30am"
+    date: "March 19"
+    location: "TBD depending on attendance (suggestions welcome)!"
+    point_of_contact: "Dave Wasmer, @davewasmer on Discord"
+    description: |
+      A chance to start the day with some fellowship and time spent in the Word before the conference kicks off! All are welcome!
+
   - name: "Meetup Organizer's lunch"
     start_time: "12:00pm"
     date: "March 19"
