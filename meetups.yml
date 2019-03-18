@@ -92,6 +92,16 @@
   events:
 #############################################################
 
+- name: Early Morning Bouldering
+    date: "Wednesday, March 20"
+    start_time: "7:00am"
+    end_time: "8:30am"
+    location: |
+      <a href="https://goo.gl/maps/PfuzxF4Tb7U2" target="_blank">Portland Rock Gym</a>
+    point_of_contact: |
+      <a href="mailto:cspanring@me.com">Christian Spanring</a>
+    description: |
+      Wake up with an early morning bouldering session! All first-timers and regulars welcome. Feel free to reach me by <a href="mailto:cspanring@me.comm">email</a> for RSVP and questions. Cheers!
 
 
 #############################################################
