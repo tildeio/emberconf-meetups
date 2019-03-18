@@ -70,7 +70,7 @@
     description: |
       A chance to start the day with some fellowship and time spent in the Word before the conference kicks off! All are welcome!
 
-  - name: "Meetup Organizer's lunch"
+  - name: "Meetup Organizer's Lunch"
     start_time: "12:00pm"
     date: "March 19"
     location: "The EmberConf food hall, far back left corner as you exit the food lines"
@@ -92,10 +92,10 @@
   events:
 #############################################################
 
-- name: Early Morning Bouldering
-    date: "Wednesday, March 20"
+  - name: Early Morning Bouldering
     start_time: "7:00am"
     end_time: "8:30am"
+    date: "Wednesday, March 20"
     location: |
       <a href="https://goo.gl/maps/PfuzxF4Tb7U2" target="_blank">Portland Rock Gym</a>
     point_of_contact: |
